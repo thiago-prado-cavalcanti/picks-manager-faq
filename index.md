@@ -1,3 +1,6 @@
+Here is the formatted content using Markdown, following the style similar to the Crisp Helpdesk articles:
+
+```markdown
 # Como criar minha conta de responsável?
 
 Para gerenciar as recargas e consumos, você precisará criar sua conta como responsável no Picks Manager (Aplicativo Amarelo). Não se preocupe, é super simples e rápido:
@@ -15,10 +18,10 @@ Após criar sua conta de responsável, você precisará criar o perfil do aluno 
 1. Na tela inicial, vá para a seção **"Usuários"** e clique no ícone **⨮ "Adicionar um usuário"** no centro da tela.
 2. Escolha entre **E-mail**, **CPF** ou **Código** para criar o cadastro.
 
-**Atenção:**
-- **E-mail:** Um código será enviado para o e-mail do aluno, então você precisará acessar esse e-mail para obter o código de confirmação.
-- **CPF:** O documento deve ser do aluno, não do responsável financeiro. Só será permitido um cadastro por CPF.
-- **Código:** Se o aluno já tiver uma conta no Aplicativo Picks (App Roxinho), utilize a opção **"Cod. (Código)"** para vinculá-lo à sua conta. O código do aluno poderá ser encontrado no App Roxinho, na aba **"Perfil"**, na seção **"Código de cadastro"**.
+   **Atenção:**
+   - **E-mail:** Um código será enviado para o e-mail do aluno, então você precisará acessar esse e-mail para obter o código de confirmação.
+   - **CPF:** O documento deve ser do aluno, não do responsável financeiro. Só será permitido um cadastro por CPF.
+   - **Código:** Se o aluno já tiver uma conta no Aplicativo Picks (App Roxinho), utilize a opção **"Cod. (Código)"** para vinculá-lo à sua conta. O código do aluno poderá ser encontrado no App Roxinho, na aba **"Perfil"**, na seção **"Código de cadastro"**.
 
 3. Preencha os dados do aluno e configure uma senha que ele se lembrará.
 4. Finalize as confirmações e o cadastro estará pronto para uso.
@@ -33,7 +36,7 @@ Após criar a conta de responsável e configurar a conta do aluno, será necess�
    - **Localizar pelo Código:** Insira o código previamente enviado e toque na lupa.
 3. Preencha as informações adicionais se solicitadas e toque no botão amarelo **“Confirmar”**. O cartão de consumo do aluno será enviado para o e-mail do responsável.
 
-Caso precise associar o aluno a mais de um estabelecimento (como Escola de Inglês ou outra unidade), toque no botão **⨮** na parte inferior da tela e repita o processo de associação.
+   Caso precise associar o aluno a mais de um estabelecimento (como Escola de Inglês ou outra unidade), toque no botão **⨮** na parte inferior da tela e repita o processo de associação.
 
 # Como adicionar um cartão de crédito?
 
@@ -55,7 +58,7 @@ Após configurar a conta do aluno e associá-lo a um estabelecimento, o próximo
 5. Escolha a forma de pagamento e verifique o valor da taxa (se houver) e o prazo de compensação bancária de cada meio de pagamento disponível.
 6. Toque em **"Pagar"** e finalize a recarga.
 
-O saldo ficará disponível para uso conforme o prazo informado para cada método de pagamento.
+   O saldo ficará disponível para uso conforme o prazo informado para cada método de pagamento.
 
 # Customizar o cardápio
 
@@ -75,7 +78,7 @@ Em caso de perda ou furto do cartão de consumo, você pode invalidá-lo imediat
 2. Em **"Meios de Pagamento"**, na opção QR Code, toque no botão amarelo **"Visualizar"**.
 3. Depois, toque em **"Invalidar"** e confirme.
 
-Um novo cartão será gerado automaticamente e enviado para o seu e-mail, tornando o cartão antigo imediatamente indisponível.
+   Um novo cartão será gerado automaticamente e enviado para o seu e-mail, tornando o cartão antigo imediatamente indisponível.
 
 # Acompanhar o consumo de usuários
 
@@ -86,7 +89,7 @@ Acompanhamento de consumo e resgates:
 3. Selecione **Compras ou Resgates**.
 4. Clique no pedido para detalhamento de produtos, valores e datas.
 
-**Importante:** A diferença entre Compra e Resgate é que a primeira mostra a compra dos produtos, já a segunda, quando efetivamente foram entregues.
+   **Importante:** A diferença entre Compra e Resgate é que a primeira mostra a compra dos produtos, já a segunda, quando efetivamente foram entregues.
 
 # Como criar uma Assinatura de refeições?
 
@@ -98,11 +101,11 @@ Alguns estabelecimentos oferecem opções de **Assinaturas** para refeições e 
 4. Escolha a forma de pagamento e a data de vencimento para as renovações.
 5. Toque no botão amarelo **"Assinar"** e confirme.
 
-A cobrança recorrente será feita de acordo com a assinatura escolhida, na data de vencimento que você selecionou.
+   A cobrança recorrente será feita de acordo com a assinatura escolhida, na data de vencimento que você selecionou.
 
-*Cartão de crédito: a primeira cobrança é realizada e a assinatura ativada imediatamente.
-**Pix: a primeira cobrança é realizada e a assinatura estará ativada assim que identificarmos o pagamento.
-***Boleto: o documento é enviado para o seu e-mail e o número para pagamento eletrônico disponibilizado na tela. O boleto pode levar até 2 dias para compensar e a sua assinatura estará ativada assim que identificarmos o pagamento.
+   *Cartão de crédito: a primeira cobrança é realizada e a assinatura ativada imediatamente.  
+   **Pix: a primeira cobrança é realizada e a assinatura estará ativada assim que identificarmos o pagamento.  
+   ***Boleto: o documento é enviado para o seu e-mail e o número para pagamento eletrônico disponibilizado na tela. O boleto pode levar até 2 dias para compensar e a sua assinatura estará ativada assim que identificarmos o pagamento.
 
 # Como trocar a forma de pagamento de uma assinatura?
 
@@ -137,38 +140,4 @@ Você pode agendar um pedido para consumo posterior, escolhendo o dia e o horár
 **Acompanhamento de status:**
 
 1. Toque na opção **"Usuários"**, selecione o aluno desejado e escolha o estabelecimento (se houver mais de um).
-2. Role a tela até a sessão **"Pedido Agendado"** e toque em **"Agendados"**.
-3. Toque no agendamento para ver os detalhes do produto e data.
-
-**Importante:** O valor da compra é debitado do saldo assim que o pedido é agendado.
-
-# Como adicionar um pix para transferência de saldo?
-
-Você pode adicionar a chave do Pix do aluno e fazer transferências de saldo de um aluno para outro, de um responsável para um aluno ou de um aluno para um responsável.
-
-1. Toque na opção **"Usuários"** e selecione o aluno desejado.
-2. Toque na opção **"Adicionar Pix"**.
-3. Insira a chave **Pix** do aluno.
-4. Preencha as informações do dono da conta e toque em **Adicionar**.
-
-Após isso, você poderá realizar transferências dentro do aplicativo Picks.
-
-# Como transferir saldo entre usuários?
-
-Caso deseje transferir saldo de um aluno para outro ou de um responsável para um aluno, você pode seguir os seguintes passos:
-
-1. Toque na opção **"Usuários"** e selecione o aluno desejado.
-2. Clique no botão **"Transferir Saldo"**.
-3. Escolha o valor que deseja transferir e selecione o aluno destino.
-4. Toque no botão amarelo **"Transferir"** e a transferência será concluída.
-
-# Problemas com saldo?
-
-Caso o saldo da recarga não seja atualizado ou não esteja disponível após o prazo informado, você pode verificar:
-
-1. Toque na opção **"Conta"** e selecione **"Histórico de Recargas"**.
-2. Veja se o pagamento foi confirmado.
-3. Se necessário, clique em **"Reenviar Comprovante"**.
-
-Se o problema persistir, entre em contato com o suporte técnico do Picks Manager para obter ajuda.
-
+2. Role a tela até a sessão **"Pedido Agendado"** e toque em **
