@@ -1,6 +1,3 @@
-Here is the formatted content using Markdown, following the style similar to the Crisp Helpdesk articles:
-
-```markdown
 # Como criar minha conta de responsável?
 
 Para gerenciar as recargas e consumos, você precisará criar sua conta como responsável no Picks Manager (Aplicativo Amarelo). Não se preocupe, é super simples e rápido:
